@@ -1,0 +1,6 @@
+framework module Pods_TweetIt {
+  umbrella header "Pods-TweetIt-umbrella.h"
+
+  export *
+  module * { export * }
+}
